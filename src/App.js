@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from "./logo.svg";
+import { useState } from "react";
+import "./App.css";
+import Block from "./components/quoteblock/Block";
 
 function App() {
+  const [bgcolor, setbgcolor] = useState("#fff");
+
+  const handleColor = (c) => {
+    setbgcolor(c);
+  };
   return (
-    <div className="App">
+    <div id="inner-root" style={{ background: bgcolor }}>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* <h1 align="center">Hey there, welcome to quotes app !</h1> */}
       </header>
+      <div className="container">
+        <Block change={handleColor} />
+      </div>
+      <footer align="center">
+        Created with ❤️ by{" "}
+        <a
+          href="https://swarajbaral.github.io/fcc-responsive-projects/portfolio/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Swaraj
+        </a>
+      </footer>
     </div>
   );
 }
