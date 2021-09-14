@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/SwarajBaral/random-quotes-machine/static/css/main.189d8746.chunk.css",
-    "main.js": "/SwarajBaral/random-quotes-machine/static/js/main.ca36ece9.chunk.js",
-    "main.js.map": "/SwarajBaral/random-quotes-machine/static/js/main.ca36ece9.chunk.js.map",
-    "runtime-main.js": "/SwarajBaral/random-quotes-machine/static/js/runtime-main.a3791c21.js",
-    "runtime-main.js.map": "/SwarajBaral/random-quotes-machine/static/js/runtime-main.a3791c21.js.map",
-    "static/js/2.45052f96.chunk.js": "/SwarajBaral/random-quotes-machine/static/js/2.45052f96.chunk.js",
-    "static/js/2.45052f96.chunk.js.map": "/SwarajBaral/random-quotes-machine/static/js/2.45052f96.chunk.js.map",
-    "static/js/3.125c41f3.chunk.js": "/SwarajBaral/random-quotes-machine/static/js/3.125c41f3.chunk.js",
-    "static/js/3.125c41f3.chunk.js.map": "/SwarajBaral/random-quotes-machine/static/js/3.125c41f3.chunk.js.map",
-    "index.html": "/SwarajBaral/random-quotes-machine/index.html",
-    "static/css/main.189d8746.chunk.css.map": "/SwarajBaral/random-quotes-machine/static/css/main.189d8746.chunk.css.map",
-    "static/js/2.45052f96.chunk.js.LICENSE.txt": "/SwarajBaral/random-quotes-machine/static/js/2.45052f96.chunk.js.LICENSE.txt"
+    "main.css": "/random-quotes-machine/static/css/main.189d8746.chunk.css",
+    "main.js": "/random-quotes-machine/static/js/main.ca36ece9.chunk.js",
+    "main.js.map": "/random-quotes-machine/static/js/main.ca36ece9.chunk.js.map",
+    "runtime-main.js": "/random-quotes-machine/static/js/runtime-main.efee80e1.js",
+    "runtime-main.js.map": "/random-quotes-machine/static/js/runtime-main.efee80e1.js.map",
+    "static/js/2.45052f96.chunk.js": "/random-quotes-machine/static/js/2.45052f96.chunk.js",
+    "static/js/2.45052f96.chunk.js.map": "/random-quotes-machine/static/js/2.45052f96.chunk.js.map",
+    "static/js/3.125c41f3.chunk.js": "/random-quotes-machine/static/js/3.125c41f3.chunk.js",
+    "static/js/3.125c41f3.chunk.js.map": "/random-quotes-machine/static/js/3.125c41f3.chunk.js.map",
+    "index.html": "/random-quotes-machine/index.html",
+    "static/css/main.189d8746.chunk.css.map": "/random-quotes-machine/static/css/main.189d8746.chunk.css.map",
+    "static/js/2.45052f96.chunk.js.LICENSE.txt": "/random-quotes-machine/static/js/2.45052f96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3791c21.js",
+    "static/js/runtime-main.efee80e1.js",
     "static/js/2.45052f96.chunk.js",
     "static/css/main.189d8746.chunk.css",
     "static/js/main.ca36ece9.chunk.js"
